@@ -1,4 +1,13 @@
-data/source/SEM_Data_Online.xlsm
-*.pyc
+.svn
+.svn/**
+*config*
+Thumbs.db
+ehthumbs.db
+archive
+archive/**
+archives
+archives/**
+utilities
+utilities/**
+pars.cfm
 .DS_Store
-~$*
